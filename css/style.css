@@ -1,0 +1,23 @@
+body {
+    
+}
+
+h1 {
+    text-align: center;
+    color: red;
+}
+
+.links {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+p {
+    text-align: center;
+    font-size: 30px;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
